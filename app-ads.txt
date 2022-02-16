@@ -892,3 +892,5 @@ cedato.com, 100878910, RESELLER
 adtelligent.com, 309040, RESELLER, 7de89dc7742b5b11
 advertising.com, 28441, RESELLER
 adtech.com, 28441, RESELLER
+#=== admob test
+google.com, pub-3940256099942544, DIRECT, f08c47fec0942fa0
